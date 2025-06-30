@@ -234,6 +234,10 @@ body {
     letter-spacing: 0.5px;
 }
 
+.stat-card p {
+    color: #718096;
+}
+
 .stat-number {
     font-size: 2rem;
     font-weight: 700;
